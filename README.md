@@ -61,7 +61,7 @@
     <br></br>
     <h22>
 Un formulario HTML es una caja de texto que puede contener casillas de verificación, botones y campos alfanuméricos. Suelen encontrarse en los sitios web para recolectar los datos personales de los usuarios interesados en la oferta del sitio. Estos datos posteriormente se envían a una base de datos para ser procesados</h22>
-      <p> siguiente pagina <a href="https://www.youtube.com/watch?v=M7-ScejKmjU"> enlace</a> a otro sitio web.</p>
+      <p> siguiente pagina <a href="https://emma-gay.github.io/num2/"> enlace</a> a otro sitio web.</p>
     <footer>
         <p>Ejemplo de documento HTML con etiquetas básicas.</p>
     </footer>
